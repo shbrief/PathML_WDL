@@ -1,0 +1,4 @@
+{
+    "PathMLPreprocessing.StainNormalizationHE.image_svs":"gs://sh_misc/CMU-1-Small-Region.sv,
+    "PathMLPreprocessing.StainNormalizationHE.sampleName":"CMU-1-Small-Region"
+}
